@@ -14,9 +14,6 @@ Some of the chosen columns have null values which need to be substituted with ot
 #### Number of Seismis Station (NST)
 ![nst](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/cdc52fbb-1d8a-488a-9b38-72daefe70958)
 
-#### RMS
-![rms](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/4f12879f-af1c-449d-8b05-56d49406c057)
-
 #### Gap
 ![gap](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/c41f5a7e-f613-4d97-b79a-c483b301df32)
 
@@ -30,7 +27,7 @@ As we can see from all the above distribution we need to use mode to replace nul
 
 Among these models the best model was Light GBM and the residual scatter plot of this model is shown below to check heteroskedasticity
 
-![scatter](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/bf2053fc-7bec-41eb-9311-e3ecc672ec2f)
+
 
 ## True Value vs Predicted Value
 
