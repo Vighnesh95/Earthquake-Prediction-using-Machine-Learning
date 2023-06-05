@@ -19,6 +19,7 @@ Some of the chosen columns have null values which need to be substituted with ot
 
 #### Gap
 ![gap](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/c41f5a7e-f613-4d97-b79a-c483b301df32)
+
 As we can see from all the above distribution we need to use mode to replace null values to keep the distribution the same for replaced values as well.
 
 ## Models Used
@@ -28,8 +29,10 @@ As we can see from all the above distribution we need to use mode to replace nul
 - Gradient Boost Regression
 
 Among these models the best model was Light GBM and the residual scatter plot of this model is shown below to check heteroskedasticity
+
 ![scatter](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/bf2053fc-7bec-41eb-9311-e3ecc672ec2f)
 
 ## True Value vs Predicted Value
+
 ![lgbm_fit](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/90dbadee-380e-48fb-824e-7faae1ccac3f)
 
