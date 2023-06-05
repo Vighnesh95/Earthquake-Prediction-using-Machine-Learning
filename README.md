@@ -32,7 +32,7 @@ As we can see from all the above distribution we need to use mode to replace nul
 
 Among these models the best model was Light GBM and the residual scatter plot of this model is shown below to check heteroskedasticity
 
-
+![scatter](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/9ebfb46b-df77-4391-b593-704af9486def)
 
 ## True Value vs Predicted Value
 
