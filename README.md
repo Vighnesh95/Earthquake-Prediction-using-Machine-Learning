@@ -9,15 +9,20 @@ Some of the chosen columns have null values which need to be substituted with ot
 
 ### Distribution of Important Dataset Parameters
 #### Depth 
-![Depth](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/8e79ba4d-73e1-4f49-a620-c1430e27b780)
+
+![Depth](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/f81ee64f-a3f3-4555-ac29-295f5d3c960a)
 
 #### Number of Seismis Station (NST)
-![nst](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/cdc52fbb-1d8a-488a-9b38-72daefe70958)
+
+![nst](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/c70cfebe-5508-4b11-8647-24e9ebe4a954)
 
 #### Gap
-![gap](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/c41f5a7e-f613-4d97-b79a-c483b301df32)
+
+![gap](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/4c3981d7-5ea1-43cd-8463-f2e387ec5fac)
 
 As we can see from all the above distribution we need to use mode to replace null values to keep the distribution the same for replaced values as well.
+
+![scatter](https://github.com/Vighnesh95/Earthquake-Forecasting-using-Machine-Learning/assets/135556257/21a75c9f-e60f-4a04-a6e6-b96469162fbf)
 
 ## Models Used
 - Random Forest Regression
